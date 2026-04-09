@@ -285,6 +285,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-lucide-icons](https://github.com/bhaireshm/docsify-lucide-icons) - A simple, clean Docsify plugin to embed Lucide icons directly in your Markdown files. [@bhaireshm](https://github.com/bhaireshm)
 - [docsify-display-colors](https://github.com/win-tm/docsify-display-colors) - A Docsify Plugin to visually display small Color-Swatches next to Hexcodes, RGB- or HSL-Colors. [@win-tm](https://github.com/win-tm)
 - [docsify-infographic](https://github.com/bulexu/docsify-infographic) - A plugin to render @antv/infographic diagrams in docsify.
+- [docsify-pytutor](https://github.com/sherlockmen/docsify-pytutor) - A docsify plugin that can visualize code execution. ✨(一个可以实现代码执行可视化的docsify插件).[@sherlockmen](https://github.com/sherlockmen)
 
 ## Themes
 
